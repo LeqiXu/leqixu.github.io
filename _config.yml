@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/LeqiXu/" # e.g., "github username"
+  github           : "LeqiXu" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/leqi-xu-a8a880179/" # e.g., "linkedin username"
+  linkedin         : "leqi-xu-a8a880179" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : https://x.com/leqi_xu/
+  twitter          : "leqi_xu"
   vine             :
   weibo            :
   xing             :
