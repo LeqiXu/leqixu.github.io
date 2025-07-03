@@ -24,6 +24,7 @@ I am a fourth-year Ph.D. student in Biostatistics at Yale School of Public Healt
 - B.S. in Statistics, Fudan University (2017 - 2021). 
   
 # 📝 Publications
+(<sup>∗</sup> indicates co-first authorship; † indicates co-corresponding authorship)
 
 ### Lead/Co-Lead
 1. **Xu, L.**, Dong, Y., Zeng, X., Bian, Z., Zhou, G., Guan, L., and Zhao, H., 2025. Almost Free Enhancement of Multi-Population PRS: From Data-Fission to Pseudo-GWAS Subsampling. *bioRxiv*. [[preprint](https://www.biorxiv.org/content/10.1101/2025.06.16.659952v1)][[software](https://github.com/LeqiXu/MIXPRS)][[analysis](https://github.com/LeqiXu/MIXPRS_analysis)]
@@ -31,14 +32,11 @@ I am a fourth-year Ph.D. student in Biostatistics at Yale School of Public Healt
 2. **Xu, L.**, Zhou, G., Jiang, W., Zhang, H., Dong, Y., Guan, L.†, and Zhao, H.†, 2025. JointPRS: A data-adaptive framework for multi-population genetic risk prediction incorporating genetic correlation. *Nature Communications*, 16(1), 3841. [[paper](https://www.nature.com/articles/s41467-025-59243-x)] [[software](https://github.com/LeqiXu/JointPRS)] [[analysis](https://github.com/LeqiXu/JointPRS_analysis)]
    * 🏆 **Reviewers’ Choice Award**, American Society of Human Genetics Annual Meeting (2023)
 
-3. Ye, Y.∗, **Xu, L.∗**, and Zhao, H., 2024. Leveraging Functional Annotations Improves Cross-Population Genetic Risk Prediction. In: *Statistics in Precision Health: Theory, Methods and Applications* (pp. 453-471). Cham: Springer International Publishing. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-50690-1_18)]
+3. Ye, Y.<sup>∗</sup>, **Xu, L.<sup>∗</sup>**, and Zhao, H., 2024. Leveraging Functional Annotations Improves Cross-Population Genetic Risk Prediction. In: *Statistics in Precision Health: Theory, Methods and Applications* (pp. 453-471). Cham: Springer International Publishing. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-50690-1_18)]
 
 ### Collaborations
 4. Jiang, J., **Xu, L.**, Zhang, Y., and Zhao, H., 2024. The Method of Limits and Its Application to the Analysis of Count Data in Genome-wide Association Studies. *Statistica Sinica*. [[paper](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0092_na.pdf)]
 
 5. Lin, C., Lin, Y., Li, W., **Xu, L.**, Zhang, X., and Zhao, H., 2025. Leveraging cell-type specificity and similarity improves single-cell eQTL fine-mapping. *bioRxiv*. [[preprint](https://www.biorxiv.org/content/10.1101/2025.03.05.641709v1)]
 
-6. Gygi, J.P.∗, Maguire, C.∗, Patel, R.K.∗, Shinde, P., Konstorum, A., Shannon, C.P., **Xu, L.**, Hoch, A., Jayavelu, N.D., Haddad, E.K., and Reed, E.F., 2024. Integrated longitudinal multiomics study identifies immune programs associated with acute COVID-19 severity and mortality. *The Journal of Clinical Investigation*, 134(9). [[paper](https://www.jci.org/articles/view/176640)]
-
-(∗ indicates co-first authorship; † indicates co-corresponding authorship)
-
+6. Gygi, J.P.<sup>∗</sup>, Maguire, C.<sup>∗</sup>, Patel, R.K.<sup>∗</sup>, Shinde, P., Konstorum, A., Shannon, C.P., **Xu, L.**, Hoch, A., Jayavelu, N.D., Haddad, E.K., and Reed, E.F., 2024. Integrated longitudinal multiomics study identifies immune programs associated with acute COVID-19 severity and mortality. *The Journal of Clinical Investigation*, 134(9). [[paper](https://www.jci.org/articles/view/176640)]
