@@ -30,7 +30,7 @@ I am a fourth-year Ph.D. student in Biostatistics at Yale School of Public Healt
 1. **Xu, L.**, Dong, Y., Zeng, X., Bian, Z., Zhou, G., Guan, L., and Zhao, H., 2025. Almost Free Enhancement of Multi-Population PRS: From Data-Fission to Pseudo-GWAS Subsampling. *bioRxiv*. [[preprint](https://www.biorxiv.org/content/10.1101/2025.06.16.659952v1)][[software](https://github.com/LeqiXu/MIXPRS)][[analysis](https://github.com/LeqiXu/MIXPRS_analysis)]
 
 2. **Xu, L.**, Zhou, G., Jiang, W., Zhang, H., Dong, Y., Guan, L.†, and Zhao, H.†, 2025. JointPRS: A data-adaptive framework for multi-population genetic risk prediction incorporating genetic correlation. *Nature Communications*, 16(1), 3841. [[paper](https://www.nature.com/articles/s41467-025-59243-x)] [[software](https://github.com/LeqiXu/JointPRS)] [[analysis](https://github.com/LeqiXu/JointPRS_analysis)]
-   * 🏆 **Reviewers’ Choice Award**, American Society of Human Genetics Annual Meeting (2023)
+   * **Reviewers’ Choice Award**, American Society of Human Genetics Annual Meeting (2023)
 
 3. Ye, Y.<sup>∗</sup>, **Xu, L.<sup>∗</sup>**, and Zhao, H., 2024. Leveraging Functional Annotations Improves Cross-Population Genetic Risk Prediction. In: *Statistics in Precision Health: Theory, Methods and Applications* (pp. 453-471). Cham: Springer International Publishing. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-50690-1_18)]
 
