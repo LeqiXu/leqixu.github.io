@@ -31,7 +31,7 @@ I am a fourth-year Ph.D. student in Biostatistics at Yale School of Public Healt
 2. **Xu, L.**, Zhou, G., Jiang, W., Zhang, H., Dong, Y., Guan, L.†, and Zhao, H.†, 2025. JointPRS: A data-adaptive framework for multi-population genetic risk prediction incorporating genetic correlation. *Nature Communications*, 16(1), 3841. [[paper](https://www.nature.com/articles/s41467-025-59243-x)] [[software](https://github.com/LeqiXu/JointPRS)] [[analysis](https://github.com/LeqiXu/JointPRS_analysis)]
    * 🏆 **Reviewers’ Choice Award**, American Society of Human Genetics Annual Meeting (2023)
 
-3. Ye, Y.∗, **Xu, L.**∗, and Zhao, H., 2024. Leveraging Functional Annotations Improves Cross-Population Genetic Risk Prediction. In: *Statistics in Precision Health: Theory, Methods and Applications* (pp. 453-471). Cham: Springer International Publishing. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-50690-1_18)]
+3. Ye, Y.∗, **Xu, L.∗**, and Zhao, H., 2024. Leveraging Functional Annotations Improves Cross-Population Genetic Risk Prediction. In: *Statistics in Precision Health: Theory, Methods and Applications* (pp. 453-471). Cham: Springer International Publishing. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-50690-1_18)]
 
 ### Collaborations
 4. Jiang, J., **Xu, L.**, Zhang, Y., and Zhao, H., 2024. The Method of Limits and Its Application to the Analysis of Count Data in Genome-wide Association Studies. *Statistica Sinica*. [[paper](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0092_na.pdf)]
