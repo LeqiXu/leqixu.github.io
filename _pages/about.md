@@ -17,42 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a fourth-year Ph.D. student in Biostatistics at Yale School of Public Health, advised by Dr. Hongyu Zhao. My research interests focus on both methodological development and applied analysis involving polygenic risk scores (PRS) and electronic health records (EHR). I develop statistical methods to integrate genetic and clinical data, aiming to enhance disease prediction, risk stratification, and personalized healthcare.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 📖 Education
+- Ph.D. in Biostatisitcs, Yale University (2021 - Present).
+- B.S. in Statistics, Fudan University (2017 - 2021). 
+  
+# 📝 Publications
 
+### Lead/Co-Lead Publications
+1. **Xu, L.**, Dong, Y., Zeng, X., Bian, Z., Zhou, G., Guan, L., and Zhao, H., 2025. Almost Free Enhancement of Multi-Population PRS: From Data-Fission to Pseudo-GWAS Subsampling. *bioRxiv*. [[preprint](https://www.biorxiv.org/content/10.1101/2025.06.16.659952v1)][[software](https://github.com/LeqiXu/MIXPRS)][[analysis](https://github.com/LeqiXu/MIXPRS_analysis)]
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+2. **Xu, L.**, Zhou, G., Jiang, W., Zhang, H., Dong, Y., Guan, L.†, and Zhao, H.†, 2025. JointPRS: A data-adaptive framework for multi-population genetic risk prediction incorporating genetic correlation. *Nature Communications*, 16(1), 3841. [[paper](https://www.nature.com/articles/s41467-025-59243-x)] [[software](https://github.com/LeqiXu/JointPRS)] [[analysis](https://github.com/LeqiXu/JointPRS_analysis)]
+   * 🏆 **Reviewers’ Choice Award**, American Society of Human Genetics Annual Meeting (2023)
 
-# 📝 Publications 
+3. Ye, Y.∗, **Xu, L.**∗, and Zhao, H., 2024. Leveraging Functional Annotations Improves Cross-Population Genetic Risk Prediction. In: *Statistics in Precision Health: Theory, Methods and Applications* (pp. 453-471). Cham: Springer International Publishing. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-50690-1_18)]
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+### Collaborations
+4. Jiang, J., **Xu, L.**, Zhang, Y., and Zhao, H., 2024. The Method of Limits and Its Application to the Analysis of Count Data in Genome-wide Association Studies. *Statistica Sinica*. [[paper](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0092_na.pdf)]
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+5. Lin, C., Lin, Y., Li, W., **Xu, L.**, Zhang, X., and Zhao, H., 2025. Leveraging cell-type specificity and similarity improves single-cell eQTL fine-mapping. *bioRxiv*. [[preprint](https://www.biorxiv.org/content/10.1101/2025.03.05.641709v1)]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+6. Gygi, J.P.∗, Maguire, C.∗, Patel, R.K.∗, Shinde, P., Konstorum, A., Shannon, C.P., **Xu, L.**, Hoch, A., Jayavelu, N.D., Haddad, E.K., and Reed, E.F., 2024. Integrated longitudinal multiomics study identifies immune programs associated with acute COVID-19 severity and mortality. *The Journal of Clinical Investigation*, 134(9). [[paper](https://www.jci.org/articles/view/176640)]
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+(∗ indicates co-first authorship; † indicates co-corresponding authorship)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
