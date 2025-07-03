@@ -25,7 +25,7 @@ I am a fourth-year Ph.D. student in Biostatistics at Yale School of Public Healt
   
 # 📝 Publications
 
-### Lead/Co-Lead Publications
+### Lead/Co-Lead
 1. **Xu, L.**, Dong, Y., Zeng, X., Bian, Z., Zhou, G., Guan, L., and Zhao, H., 2025. Almost Free Enhancement of Multi-Population PRS: From Data-Fission to Pseudo-GWAS Subsampling. *bioRxiv*. [[preprint](https://www.biorxiv.org/content/10.1101/2025.06.16.659952v1)][[software](https://github.com/LeqiXu/MIXPRS)][[analysis](https://github.com/LeqiXu/MIXPRS_analysis)]
 
 2. **Xu, L.**, Zhou, G., Jiang, W., Zhang, H., Dong, Y., Guan, L.†, and Zhao, H.†, 2025. JointPRS: A data-adaptive framework for multi-population genetic risk prediction incorporating genetic correlation. *Nature Communications*, 16(1), 3841. [[paper](https://www.nature.com/articles/s41467-025-59243-x)] [[software](https://github.com/LeqiXu/JointPRS)] [[analysis](https://github.com/LeqiXu/JointPRS_analysis)]
