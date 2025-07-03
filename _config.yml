@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Leqi Xu"
-description              : "Biostatistics PhD student"
+description              : "Yale University"
 repository               : "LeqiXu/leqixu.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Leqi Xu"
   avatar           : "images/avatar.jpg"
-  bio              : "Yale University"
+  bio              : "Biostatistics PhD student"
   location         : 
   employer         :
   pubmed           : 
