@@ -31,11 +31,11 @@ I am a fourth-year Ph.D. student in Biostatistics at Yale School of Public Healt
    Almost Free Enhancement of Multi-Population PRS: From Data-Fission to Pseudo-GWAS Subsampling.  
    *bioRxiv* [[preprint](https://www.biorxiv.org/content/10.1101/2025.06.16.659952v1)] [[software](https://github.com/LeqiXu/MIXPRS)] [[analysis](https://github.com/LeqiXu/MIXPRS_analysis)]
 
-2. **Xu, L.**, Zheng, W., Hu, J., Lin, Y., Zhao, J., Wang, G., Liu, T. and Zhao, H. (2025)  
+2. **Xu, L.**, Zheng, W., Hu, J., Lin, Y., Zhao, J., Wang, G., Liu, T., and Zhao, H. (2025)  
    Improving polygenic risk prediction performance through integrating electronic health records by phenotype embedding.  
    **The American Journal of Human Genetics**  [[paper](https://authors.elsevier.com/c/1mDFegeXDzeU)] [[software](https://github.com/LeqiXu/EEPRS)] [[analysis](https://github.com/LeqiXu/EEPRS_analysis)]
 
-3. **Xu, L.**, Zhou, G., Jiang, W., Zhang, H., Dong, Y., Guan, L.† and Zhao, H.† (2025)  
+3. **Xu, L.**, Zhou, G., Jiang, W., Zhang, H., Dong, Y., Guan, L.†, and Zhao, H.† (2025)  
    JointPRS: A data-adaptive framework for multi-population genetic risk prediction incorporating genetic correlation.  
    **Nature Communications**  [[paper](https://www.nature.com/articles/s41467-025-59243-x)] [[software](https://github.com/LeqiXu/JointPRS)] [[analysis](https://github.com/LeqiXu/JointPRS_analysis)]  
    * **Reviewers’ Choice Award**, American Society of Human Genetics 2023 Annual Meeting.
@@ -47,10 +47,10 @@ I am a fourth-year Ph.D. student in Biostatistics at Yale School of Public Healt
 
 ## **Applications**
 
-1. Rivier, C., **Xu, L.**, Clocchiatti-Tuozzo, S., Zhao, H., Ohno-Machado, L., Hafler, D., Falcone, G.† and Longbrake, E.† (2025)  
+1. Rivier, C., **Xu, L.**, Clocchiatti-Tuozzo, S., Zhao, H., Ohno-Machado, L., Hafler, D., Falcone, G.†, and Longbrake, E.† (2025)  
    Differential Results of Genetic Risk Scoring for Multiple Sclerosis in European and African-American Populations.  
    **Multiple Sclerosis Journal** [[paper](https://journals.sagepub.com/doi/10.1177/13524585251377607)]
   
-2. Gygi, J.P.<sup>∗</sup>, Maguire, C.<sup>∗</sup>, Patel, R.K.<sup>∗</sup>, Shinde, P., Konstorum, A., Shannon, C.P., **Xu, L.**, … Guan, L. (2024)  
+2. Gygi, J.P.<sup>∗</sup>, Maguire, C.<sup>∗</sup>, Patel, R.K.<sup>∗</sup>, Shinde, P., Konstorum, A., Shannon, C.P., **Xu, L.**, …, Guan, L. (2024)  
    Integrated longitudinal multiomics study identifies immune programs associated with acute COVID-19 severity and mortality.  
    **The Journal of Clinical Investigation** [[paper](https://www.jci.org/articles/view/176640)] 
