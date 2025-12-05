@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. student in Biostatistics at Yale School of Public Health, advised by Dr. Hongyu Zhao. My research interests focus on both methodological development and applied analysis involving polygenic risk scores (PRS) and electronic health records (EHR). I develop statistical methods to integrate genetic and clinical data, aiming to enhance disease prediction, risk stratification, and personalized healthcare.
+I am a fifth-year Ph.D. student in Biostatistics at Yale School of Public Health, advised by Dr. Hongyu Zhao. My research interests focus on both methodological development and applied analysis involving polygenic risk scores (PRS) and electronic health records (EHR). I develop statistical methods to integrate genetic and clinical data, aiming to enhance disease prediction, risk stratification, and personalized healthcare.
 
 # 📖 Education
 - Ph.D. in Biostatisitcs, Yale University (2021 - Present).
 - B.S. in Statistics, Fudan University (2017 - 2021). 
   
 # 📝 Selected Publications  
-(<sup>∗</sup> indicates co-first authorship; † indicates co-corresponding authorship)
+(<sup>∗</sup> indicates co-first authorship; <sup>†</sup> indicates co-corresponding authorship)
 
 ## **Statistical Methodologies**
 1. **Xu, L.**, Dong, Y., Zeng, X., Bian, Z., Zhou, G., Guan, L., Zhao, H. (2025)  
@@ -35,7 +35,7 @@ I am a fourth-year Ph.D. student in Biostatistics at Yale School of Public Healt
    Improving polygenic risk prediction performance through integrating electronic health records by phenotype embedding.  
    **The American Journal of Human Genetics**  [[paper](https://authors.elsevier.com/c/1mDFegeXDzeU)] [[software](https://github.com/LeqiXu/EEPRS)] [[analysis](https://github.com/LeqiXu/EEPRS_analysis)]
 
-3. **Xu, L.**, Zhou, G., Jiang, W., Zhang, H., Dong, Y., Guan, L.†, Zhao, H.† (2025)  
+3. **Xu, L.**, Zhou, G., Jiang, W., Zhang, H., Dong, Y., Guan, L.<sup>†</sup>, Zhao, H.<sup>†</sup> (2025)  
    JointPRS: A data-adaptive framework for multi-population genetic risk prediction incorporating genetic correlation.  
    **Nature Communications**  [[paper](https://www.nature.com/articles/s41467-025-59243-x)] [[software](https://github.com/LeqiXu/JointPRS)] [[analysis](https://github.com/LeqiXu/JointPRS_analysis)]  
    * **Reviewers’ Choice Award**, American Society of Human Genetics 2023 Annual Meeting.
@@ -47,7 +47,7 @@ I am a fourth-year Ph.D. student in Biostatistics at Yale School of Public Healt
 
 ## **Applications**
 
-1. Rivier, C., **Xu, L.**, Clocchiatti-Tuozzo, S., Zhao, H., Ohno-Machado, L., Hafler, D., Falcone, G.†, Longbrake, E.† (2025)  
+1. Rivier, C., **Xu, L.**, Clocchiatti-Tuozzo, S., Zhao, H., Ohno-Machado, L., Hafler, D., Falcone, G.<sup>†</sup>, Longbrake, E.<sup>†</sup> (2025)  
    Differential Results of Genetic Risk Scoring for Multiple Sclerosis in European and African-American Populations.  
    **Multiple Sclerosis Journal** [[paper](https://journals.sagepub.com/doi/10.1177/13524585251377607)]
   
