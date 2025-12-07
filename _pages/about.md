@@ -22,7 +22,9 @@ I am a fifth-year Ph.D. student in Biostatistics at Yale School of Public Health
 # 📖 Education
 - Ph.D. in Biostatisitcs, Yale University (2021 - Present).
 - B.S. in Statistics, Fudan University (2017 - 2021). 
-  
+
+<span class="anchor" id="selected-publications"></span>
+
 # 📝 Selected Publications  
 (<sup>∗</sup> indicates co-first authorship; <sup>†</sup> indicates co-corresponding authorship)
 
