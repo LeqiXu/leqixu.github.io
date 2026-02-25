@@ -44,7 +44,7 @@ I am a fifth-year Ph.D. student in Biostatistics at Yale School of Public Health
 
 4. Jiang, J., **Xu, L.**, Zhang, Y., Zhao, H. (2024)  
    The Method of Limits and Its Application to the Analysis of Count Data in Genome-wide Association Studies.  
-   **Statistica Sinica** [[paper](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2024-0092_na.pdf)] [[analysis](https://github.com/LeqiXu/MoL_analysis)]
+   **Statistica Sinica** [[paper](https://www3.stat.sinica.edu.tw/statistica/fp/SS-2024-0092.html)] [[analysis](https://github.com/LeqiXu/MoL_analysis)]
    * **Statistica Sinica Invited Paper**, Joint Meetings of 2025 Taipei International Statistical Symposium and 13th ICSA International Conference.
 
 ## **Applications**
