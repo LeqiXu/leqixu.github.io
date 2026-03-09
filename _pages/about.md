@@ -35,7 +35,7 @@ I am a fifth-year Ph.D. student in Biostatistics at Yale School of Public Health
 
 2. **Xu, L.**, Zheng, W., Hu, J., Lin, Y., Zhao, J., Wang, G., Liu, T., Zhao, H. (2025)  
    Improving polygenic risk prediction performance through integrating electronic health records by phenotype embedding.  
-   **The American Journal of Human Genetics**  [[paper](https://authors.elsevier.com/c/1mDFegeXDzeU)] [[software](https://github.com/LeqiXu/EEPRS)] [[analysis](https://github.com/LeqiXu/EEPRS_analysis)]
+   **The American Journal of Human Genetics**  [[paper](https://www.cell.com/ajhg/fulltext/S0002-9297(25)00431-8)] [[software](https://github.com/LeqiXu/EEPRS)] [[analysis](https://github.com/LeqiXu/EEPRS_analysis)]
 
 3. **Xu, L.**, Zhou, G., Jiang, W., Zhang, H., Dong, Y., Guan, L.<sup>†</sup>, Zhao, H.<sup>†</sup> (2025)  
    JointPRS: A data-adaptive framework for multi-population genetic risk prediction incorporating genetic correlation.  
