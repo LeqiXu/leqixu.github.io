@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral scholar in Genetics at Stanford University, advised by [Prof. Jonathan Pritchard](https://web.stanford.edu/group/pritchardlab/home.html). Previously, I completed my Ph.D. in Biostatistics at the Yale School of Public Health, advised by [Prof. Hongyu Zhao](https://zhaocenter.org).
+I am a postdoctoral scholar in Genetics at Stanford University, advised by [Prof. Jonathan Pritchard](https://web.stanford.edu/group/pritchardlab/home.html). Previously, I completed my Ph.D. in Biostatistics at Yale University, advised by [Prof. Hongyu Zhao](https://zhaocenter.org).
 
 The central theme of my research is to develop novel statistical and AI methods that integrate genetics, single-cell, and electronic health records (EHR) data to understand the biological mechanisms and clinical pathways underlying complex traits and diseases. By bridging these complementary data sources, I aim to enable new scientific discoveries and to enhance disease prediction, risk stratification, and personalized healthcare.
 
 # 💼 Employment
 
-- Postdoctoral Scholar, Genetics, Stanford University (June 2026 – December 2026).
+- Postdoctoral Scholar in Genetics, Stanford University (June 2026 – December 2026).
 
 # 📖 Education
 
@@ -56,14 +56,14 @@ The central theme of my research is to develop novel statistical and AI methods 
    * **Reviewers' Choice Award**, American Society of Human Genetics 2023 Annual Meeting.
 
 5. Jiang, J., **Xu, L.**, Zhang, Y., Zhao, H. (2024)  
-   The Method of Limits and Its Application to the Analysis of Count Data in Genome-wide Association Studies.  
-   **Statistica Sinica** [[paper](https://www3.stat.sinica.edu.tw/statistica/fp/SS-2024-0092.html)] [[analysis](https://github.com/LeqiXu/MoL_analysis)]
+   The method of limits and its application to the analysis of count data in genome-wide association studies.  
+   **Statistica Sinica** [[paper](https://www3.stat.sinica.edu.tw/statistica/fp/SS-2024-0092.html)] [[analysis](https://github.com/LeqiXu/MoL_analysis)]  
    * **Statistica Sinica Invited Paper**, Joint Meetings of 2025 Taipei International Statistical Symposium and 13th ICSA International Conference.
 
 ## **Applications**
 
 1. Rivier, C., **Xu, L.**, Clocchiatti-Tuozzo, S., Zhao, H., Ohno-Machado, L., Hafler, D., Falcone, G.<sup>†</sup>, Longbrake, E.<sup>†</sup> (2025)  
-   Differential Results of Genetic Risk Scoring for Multiple Sclerosis in European and African-American Populations.  
+   Differential results of genetic risk scoring for multiple sclerosis in European and African-American populations.  
    **Multiple Sclerosis Journal** [[paper](https://journals.sagepub.com/doi/10.1177/13524585251377607)]
 
 2. Gygi, J.P.<sup>∗</sup>, Maguire, C.<sup>∗</sup>, Patel, R.K.<sup>∗</sup>, Shinde, P., Konstorum, A., Shannon, C.P., **Xu, L.**, …, Guan, L. (2024)  
