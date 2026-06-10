@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
 I am a fifth-year Ph.D. student in Biostatistics at Yale School of Public Health, advised by [Dr. Hongyu Zhao](https://zhaocenter.org). My research interests focus on both methodological development and applied analysis involving polygenic risk scores (PRS) and electronic health records (EHR). I develop statistical and AI methods to integrate genetic and clinical data, aiming to enhance disease prediction, risk stratification, and personalized healthcare.
 
 # 📖 Education
@@ -24,7 +23,6 @@ I am a fifth-year Ph.D. student in Biostatistics at Yale School of Public Health
 - B.S. in Statistics, Fudan University (Sept 2017 - June 2021). 
 
 <span class="anchor" id="selected-publications"></span>
-
 # 📝 Selected Publications  
 (<sup>∗</sup> indicates co-first authorship; <sup>†</sup> indicates co-corresponding authorship)
 
