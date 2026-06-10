@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral scholar in Genetics at Stanford University, advised by [Prof. Jonathan Pritchard](https://web.stanford.edu/group/pritchardlab/home.html). Previously, I completed my Ph.D. in Biostatistics at Yale University, advised by [Prof. Hongyu Zhao](https://zhaocenter.org).
+I am a Postdoctoral Scholar in Genetics at Stanford University, advised by [Prof. Jonathan Pritchard](https://web.stanford.edu/group/pritchardlab/home.html). Previously, I completed my Ph.D. in Biostatistics at Yale University, advised by [Prof. Hongyu Zhao](https://zhaocenter.org).
 
 The central theme of my research is to develop novel statistical and AI methods that integrate genetics, single-cell, and electronic health records (EHR) data to understand the biological mechanisms and clinical pathways underlying complex traits and diseases. By bridging these complementary data sources, I aim to enable new scientific discoveries and to enhance disease prediction, risk stratification, and personalized healthcare.
 
