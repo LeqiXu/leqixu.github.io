@@ -23,7 +23,7 @@ The central theme of my research is to develop novel statistical and AI methods 
 
 # 💼 Employment
 
-- Postdoctoral Scholar in Genetics, Stanford University (June 2026 – December 2026).
+- Postdoctoral Scholar in Genetics, Stanford University (July 2026 – December 2026).
 
 # 📖 Education
 
