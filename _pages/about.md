@@ -47,7 +47,7 @@ The central theme of my research is to develop novel statistical and AI methods 
 - **Xu, L.**, Zheng, W., Hu, J., Lin, Y., Zhao, J., Wang, G., Liu, T., Zhao, H. (2025)  
   Improving polygenic risk prediction performance through integrating electronic health records by phenotype embedding.  
   *The American Journal of Human Genetics* [[paper](https://www.cell.com/ajhg/fulltext/S0002-9297(25)00431-8)] [[software](https://github.com/LeqiXu/EEPRS)] [[analysis](https://github.com/LeqiXu/EEPRS_analysis)]
-- Rivier, C., **Xu, L.**, Clocchiatti-Tuozzo, S., Zhao, H., Ohno-Machado, L., Hafler, D., Falcone, G.<sup>†</sup>, Longbrake, E.<sup>†</sup> (2025)  
+- Rivier, C.<sup>†</sup>, **Xu, L.**, Clocchiatti-Tuozzo, S., Zhao, H., Ohno-Machado, L., Hafler, D., Falcone, G.<sup>†</sup>, Longbrake, E.<sup>†</sup> (2025)  
   Differential results of genetic risk scoring for multiple sclerosis in European and African-American populations.  
   *Multiple Sclerosis Journal* [[paper](https://journals.sagepub.com/doi/10.1177/13524585251377607)]
 - **Xu, L.**, Zhou, G., Jiang, W., Zhang, H., Dong, Y., Guan, L.<sup>†</sup>, Zhao, H.<sup>†</sup> (2025)  
