@@ -57,13 +57,11 @@ The central theme of my research is to develop novel statistical and AI methods 
 - **Xu, L.**, Zhou, G., Jiang, W., Zhang, H., Dong, Y., Guan, L.<sup>†</sup>, Zhao, H.<sup>†</sup> (2025)  
   JointPRS: A data-adaptive framework for multi-population genetic risk prediction incorporating genetic correlation.  
   **Nature Communications** [[paper](https://www.nature.com/articles/s41467-025-59243-x)] [[software](https://github.com/LeqiXu/JointPRS)] [[analysis](https://github.com/LeqiXu/JointPRS_analysis)]
-    * **Reviewers' Choice Award**, American Society of Human Genetics 2023 Annual Meeting.
 
 ## **2024**
 - Jiang, J., **Xu, L.**, Zhang, Y., Zhao, H. (2024)  
   The method of limits and its application to the analysis of count data in genome-wide association studies.  
   **Statistica Sinica** [[paper](https://www3.stat.sinica.edu.tw/statistica/fp/SS-2024-0092.html)] [[analysis](https://github.com/LeqiXu/MoL_analysis)]
-    * **Statistica Sinica Invited Paper**, Joint Meetings of 2025 Taipei International Statistical Symposium and 13th ICSA International Conference.
 
 - Gygi, J.P.<sup>∗</sup>, Maguire, C.<sup>∗</sup>, Patel, R.K.<sup>∗</sup>, Shinde, P., Konstorum, A., Shannon, C.P., **Xu, L.**, …, Guan, L. (2024)
   Integrated longitudinal multiomics study identifies immune programs associated with acute COVID-19 severity and mortality.  
