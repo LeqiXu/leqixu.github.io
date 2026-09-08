@@ -33,12 +33,15 @@ The central theme of my research is to develop novel statistical and AI methods 
 <span class="anchor" id="selected-publications"></span>
 
 # 📝 Selected Publications
-(<sup>∗</sup> indicates co-first authorship; <sup>†</sup> indicates co-corresponding authorship)
+(<sup>∗</sup> indicates co-first authorship; # indicates my corresponding authorship)
 
 ## **2026**
 - **Xu, L.**, Dong, Y., Zeng, X., Bian, Z., Zhou, G., Guan, L., Zhao, H. (2026)  
   MIXPRS enables multi-population and multi-method polygenic risk scores using summary statistics.  
   *Nature Genetics* [[paper](https://doi.org/10.1038/s41588-026-02637-4)] [[software](https://github.com/LeqiXu/MIXPRS)] [[analysis](https://github.com/LeqiXu/MIXPRS_analysis)]
+- Jiang, J., **Xu, L.**, Zhang, J., Zhao, H. (2026)  
+  Simple inferential analyses of big GWAS data.  
+  *Statistica Sinica* [[paper](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0022_na.pdf)]
 - Lin, C., Lin, Y., Li, W., **Xu, L.**, Zhang, X., Zhao, H. (2026)  
   Leveraging cell-type specificity and similarity improves single-cell eQTL fine-mapping.  
   *Nature Communications* [[paper](https://www.nature.com/articles/s41467-026-72176-3)] [[software](https://github.com/leaffur/CASE)]
@@ -47,10 +50,10 @@ The central theme of my research is to develop novel statistical and AI methods 
 - **Xu, L.**, Zheng, W., Hu, J., Lin, Y., Zhao, J., Wang, G., Liu, T., Zhao, H. (2025)  
   Improving polygenic risk prediction performance through integrating electronic health records by phenotype embedding.  
   *The American Journal of Human Genetics* [[paper](https://www.cell.com/ajhg/fulltext/S0002-9297(25)00431-8)] [[software](https://github.com/LeqiXu/EEPRS)] [[analysis](https://github.com/LeqiXu/EEPRS_analysis)]
-- Rivier, C.<sup>†</sup>, **Xu, L.**, Clocchiatti-Tuozzo, S., Zhao, H., Ohno-Machado, L., Hafler, D., Falcone, G.<sup>†</sup>, Longbrake, E.<sup>†</sup> (2025)  
+- Rivier, C., **Xu, L.**, Clocchiatti-Tuozzo, S., Zhao, H., Ohno-Machado, L., Hafler, D., Falcone, G., Longbrake, E. (2025)  
   Differential results of genetic risk scoring for multiple sclerosis in European and African-American populations.  
   *Multiple Sclerosis Journal* [[paper](https://journals.sagepub.com/doi/10.1177/13524585251377607)]
-- **Xu, L.**, Zhou, G., Jiang, W., Zhang, H., Dong, Y., Guan, L.<sup>†</sup>, Zhao, H.<sup>†</sup> (2025)  
+- **Xu, L.**, Zhou, G., Jiang, W., Zhang, H., Dong, Y., Guan, L., Zhao, H. (2025)  
   JointPRS: A data-adaptive framework for multi-population genetic risk prediction incorporating genetic correlation.  
   *Nature Communications* [[paper](https://www.nature.com/articles/s41467-025-59243-x)] [[software](https://github.com/LeqiXu/JointPRS)] [[analysis](https://github.com/LeqiXu/JointPRS_analysis)]
 
